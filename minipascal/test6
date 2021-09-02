@@ -1,0 +1,7 @@
+pocetak
+    dok_je t < 10 radi_sledece:
+        pocetak
+            ispisi(t);
+            t := t + 1
+        kraj
+kraj.
